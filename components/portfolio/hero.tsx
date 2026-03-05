@@ -41,7 +41,7 @@ export default function Hero() {
           Wilfrid Okorie
         </h1>
         <p className="text-lg sm:text-xl text-neutral-400 mb-12 max-w-2xl mx-auto">
-          Fullstack engineer. Web2 & Web3. Applied cryptography.
+          Fullstack Software Engineer
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
